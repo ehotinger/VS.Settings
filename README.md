@@ -2,8 +2,6 @@
 
 Visual Studio font and color settings based off of https://github.com/mmonteleone/monokai-vs and usable for Visual Studio 2015.
 
----
-
 ## Installation
 
 - Download the associated [MonokaiVariant.vssettings](https://github.com/ehotinger/VS.Settings/blob/master/MonokaiVariant.vssettings)
